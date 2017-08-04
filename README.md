@@ -11,7 +11,11 @@ So combine these together, would improve and help utilize muse's data.
 # TODO
 Focus and blink algorithm
 
-# Document
+## Document
+# Tensorflow
 Getting started Tensorflow - https://gist.github.com/haje01/202ac276bace4b25dd3f <br>
 First Contact with TensorFlow - https://tensorflow.blog/1-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B8%B0%EB%B3%B8%EB%8B%A4%EC%A7%80%EA%B8%B0-first-contact-with-tensorflow/ <br>
 Tensorflow gist book korean - https://tensorflowkorea.gitbooks.io/tensorflow-kr/content/g3doc/tutorials/
+
+# Brainwave
+5 Types Of Brain Waves Frequencies - http://mentalhealthdaily.com/2014/04/15/5-types-of-brain-waves-frequencies-gamma-beta-alpha-theta-delta/ <br>
