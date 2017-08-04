@@ -1,6 +1,6 @@
 # machinelearning-muse
 Muse (Also Openbci) Machine learning project using tensorflow 
-한글 입력이 잘 안먹혀서 어줍잖은 영어를 사용합니다 ㅠㅠ 잘못해도 봐주세여
+한글 입력이 잘 안먹혀서 어줍잖은 영어를 사용합니다...
 
 # Purpose
 Old blink, focus algorithm of muse is unstable and low-responsibility also low accuracy.
