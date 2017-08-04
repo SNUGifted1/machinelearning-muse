@@ -23,3 +23,4 @@ What are Brainwaves - http://www.brainworksneurotherapy.com/what-are-brainwaves 
 What They Mean - https://examinedexistence.com/5-different-brainwave-frequencies-mean/ <br>
 How Brain Waves Contribute to the State of Mind - http://www.mindvalleyacademy.com/blog/mind/brain-waves 
 http://itsusync.com/different-types-of-brain-waves-delta-theta-alpha-beta-gamma
+https://www.curejoy.com/content/different-types-brain-waves/ - is really diffrent
