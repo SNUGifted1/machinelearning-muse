@@ -12,6 +12,9 @@ So combine these together, would improve and help utilize muse's data.
 Focus and blink algorithm
 
 # Document
+## Documents
+https://github.com/SNUGifted1/machinelearning-muse/tree/master/documents
+
 ## Tensorflow
 Getting started Tensorflow - https://gist.github.com/haje01/202ac276bace4b25dd3f <br>
 First Contact with TensorFlow - https://tensorflow.blog/1-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B8%B0%EB%B3%B8%EB%8B%A4%EC%A7%80%EA%B8%B0-first-contact-with-tensorflow/ <br>
