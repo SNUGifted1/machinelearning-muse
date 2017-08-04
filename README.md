@@ -19,3 +19,5 @@ Tensorflow gist book korean - https://tensorflowkorea.gitbooks.io/tensorflow-kr/
 
 ## Brainwave
 5 Types Of Brain Waves Frequencies - http://mentalhealthdaily.com/2014/04/15/5-types-of-brain-waves-frequencies-gamma-beta-alpha-theta-delta/ <br>
+What are Brainwaves - http://www.brainworksneurotherapy.com/what-are-brainwaves <br>
+What They Mean - https://examinedexistence.com/5-different-brainwave-frequencies-mean/ <br>
